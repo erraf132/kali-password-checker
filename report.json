@@ -1,0 +1,8 @@
+{
+    "total_passwords": 14344374,
+    "weak_passwords": 4737442,
+    "average_length": 8.748338895792873,
+    "patterns_detected": {
+        "common_pattern": 78842
+    }
+}
